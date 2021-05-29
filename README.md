@@ -1,1 +1,11 @@
-Add more code!
+### Amarts ()
+
+
+
+
+
+Self Sufficent Artifical Agent.
+
+
+
+

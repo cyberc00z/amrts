@@ -1,10 +1,6 @@
-### Amarts ()
+### Amrts
 
-
-
-
-
-Self Sufficent Artifical Agent.
+Artifical Agent.
 
 
 
